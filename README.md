@@ -203,3 +203,4 @@ _MATRIX是封装出来的矩阵类型，用于进行更方便的矩阵运算。
   kind=2时，使用改进的平方根法 。
 
   在此申明，Cholesky分解的系数矩阵需为**对称正定矩阵**。
+# Numerica_Algebra_Founction
